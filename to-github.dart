@@ -33,6 +33,9 @@ void main() async {
 
       final trOutDirPath = '$outDirPath/$hanzi/$code.txt';
       _writeFile(trOutDirPath, word.translation);
+
+      final pyOutDirPath = '$outDirPath/$hanzi/pinyin.txt';
+      _writeFile(pyOutDirPath, word.pinyin);
     }
   }
 }
