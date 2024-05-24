@@ -1,1 +1,1 @@
-um (número)
+um, 1; único

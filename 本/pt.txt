@@ -1,0 +1,1 @@
+classificador para livros, jornais etc

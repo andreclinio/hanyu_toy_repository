@@ -1,1 +1,1 @@
-seven (number)
+seven, 7
