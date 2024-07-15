@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="800px"
+   width="800px"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 511.994 511.994"
+   xml:space="preserve"
+   sodipodi:docname="image.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs7" /><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.3525"
+   inkscape:cx="400"
+   inkscape:cy="400"
+   inkscape:window-width="2560"
+   inkscape:window-height="1324"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+<path
+   style="fill:#ff8c8a;stroke-width:1.8222"
+   d="m 265.05913,170.45303 c 0,-59.47479 -47.98292,-107.693587 -107.16678,-107.693587 -59.183837,0 -107.16677,48.218797 -107.16677,107.693587 0,143.47639 162.53155,207.66218 214.33355,298.1156 51.81109,-90.45342 214.34264,-154.63921 214.34264,-298.1156 0,-59.47479 -47.98291,-107.693587 -107.16677,-107.693587 -59.18385,0 -107.17587,48.218797 -107.17587,107.693587 z"
+   id="path5" />
+<g
+   id="g7"
+   transform="matrix(1.8177417,0,0,1.8266775,-200.27728,-204.17294)">
+	<path
+   style="fill:#fa7876"
+   d="m 248.415,357.1 c 2.841,3.66 5.393,7.382 7.588,11.187 28.497,-49.518 117.912,-84.656 117.912,-163.201 0,-32.559 -26.397,-58.956 -58.956,-58.956 -2.574,0 -5.103,0.167 -7.588,0.485 28.977,3.722 51.368,28.486 51.368,58.471 -10e-4,72.506 -76.194,108.023 -110.324,152.014 z"
+   id="path6" />
+	<path
+   style="fill:#fa7876"
+   d="m 256.07,202.262 c -3.688,-41.518 -36.988,-56.131 -59.028,-56.131 -2.568,0 -5.103,0.167 -7.588,0.485 28.977,3.722 59.028,54.599 59.028,84.59 -0.001,-10.52 2.757,-20.392 7.588,-28.944 z"
+   id="path7" />
+</g>
+</svg>

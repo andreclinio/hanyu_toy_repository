@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   version="1.2"
+   id="svg1"
+   sodipodi:docname="image.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3525"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="2560"
+     inkscape:window-height="1324"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 14.973137,5.017273 c -3.021677,-2.9016801 -7.9207788,-2.9016801 -10.9424558,0 -3.0216769,2.9026243 -3.0216769,7.607822 0,10.509502 l 5.4707445,5.254751 5.4717113,-5.254751 c 3.021677,-2.90168 3.021677,-7.6068777 0,-10.509502 z m -5.4717113,7.738128 c -0.6461213,0 -1.2525844,-0.245505 -1.7100913,-0.691191 -0.9430645,-0.920643 -0.9430645,-2.4182236 0,-3.3388671 0.4565393,-0.4456873 1.06397,-0.691192 1.7100913,-0.691192 0.6461203,0 1.2535503,0.2455047 1.7100913,0.691192 0.943065,0.9206435 0.943065,2.4191681 0,3.3388671 -0.456541,0.445686 -1.063971,0.691191 -1.7100913,0.691191 z"
+     id="path1-6"
+     style="fill:#0000ff;stroke-width:0.955678" />
+  <text
+     xml:space="preserve"
+     style="font-size:25.007px;fill:#d40000;stroke:none;stroke-width:2.08391"
+     x="10.097785"
+     y="21.385925"
+     id="text1"
+     transform="scale(1.0214768,0.97897476)"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       style="stroke:none;stroke-width:2.08391;fill:#d40000"
+       x="10.097785"
+       y="21.385925">?</tspan></text>
+</svg>
