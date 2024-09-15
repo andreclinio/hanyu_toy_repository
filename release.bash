@@ -6,7 +6,7 @@ wait_for_enter() {
 }
 
 function main() {
-   nextTag=`date +"%Y-%m-%d"`
+   nextTag=`date +"%Y%m%d-%H:%M"`
    echo "Tag a ser criada: $nextTag"
    
    wait_for_enter
