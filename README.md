@@ -8,5 +8,6 @@ Feel free to contribute!
 Check absence of image file.
 
 ```bash
-user@host$ for d in `find . -maxdepth 1 -type d  ! -name '.*'` ; do [ ! -e $d/image.svg ] && echo -n $d && cat $d/pt.txt && echo "" ; done
+$ for d in `find repository -maxdepth 2 -mindepth 2 -type d  ! -name '.*'` ; do [ ! -e $d/image.svg ] && echo -n "$d - " && cat $d/pt.txt && echo "" ; done
+...
 ```
