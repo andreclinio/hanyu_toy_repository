@@ -17,12 +17,14 @@ def list_directories(path):
     return directories
 
 
-def create_sound(hanzi):
+def create_sound(levelDir, hanzi):
     language = "zh-CN"  # Use the appropriate language code
     speech = gTTS(text=hanzi, lang=language, slow=False)
-    outPath = "./%s/sound.mp3" % hanzi
+    outPath = "./%s/%s/sounds/machine.mp3" % (levelDir, hanzi)
     speech.save(outPath)
 
-directories = list_directories('.')
+levelDir = './repository/2'
+directories = list_directories(levelDir)
 for dir in directories:
-    create_sound(dir)
+    print (dir)
+    create_sound(levelDir, dir)
