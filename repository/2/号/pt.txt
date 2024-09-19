@@ -1,0 +1,1 @@
+número; dia (usado em data)
