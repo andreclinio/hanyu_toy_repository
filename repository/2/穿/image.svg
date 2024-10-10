@@ -1,45 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg version="1.1" id="Uploaded to svgrepo.com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
-	 width="800px" height="800px" viewBox="0 0 32 32" xml:space="preserve">
-<style type="text/css">
-	.cubies_zesentwintig{fill:#65C3AB;}
-	.cubies_zevenentwintig{fill:#98D3BC;}
-	.cubies_achtentwintig{fill:#CCE2CD;}
-	.st0{fill:#F2C99E;}
-	.st1{fill:#F9E0BD;}
-	.st2{fill:#C9483A;}
-	.st3{fill:#D97360;}
-	.st4{fill:#EDB57E;}
-	.st5{fill:#E3D4C0;}
-	.st6{fill:#FFF2DF;}
-	.st7{fill:#4C4842;}
-	.st8{fill:#67625D;}
-	.st9{fill:#EDEAE5;}
-	.st10{fill:#C9C6C0;}
-	.st11{fill:#BCD269;}
-	.st12{fill:#A4C83F;}
-	.st13{fill:#837F79;}
-	.st14{fill:#EC9B5A;}
-	.st15{fill:#2EB39A;}
-	.st16{fill:#725A48;}
-	.st17{fill:#8E7866;}
-	.st18{fill:#E69D8A;}
-	.st19{fill:#65C3AB;}
-	.st20{fill:#A5A29C;}
-	.st21{fill:#D1DE8B;}
-	.st22{fill:#E8E8B5;}
-</style>
-<g>
-	<path class="cubies_zesentwintig" d="M29,32H3c-1.657,0-3-1.343-3-3V3c0-1.657,1.343-3,3-3h26c1.657,0,3,1.343,3,3v26
-		C32,30.657,30.657,32,29,32z"/>
-	<path class="cubies_zevenentwintig" d="M27,32H3c-1.657,0-3-1.343-3-3V3c0-1.657,1.343-3,3-3h24c1.657,0,3,1.343,3,3v26
-		C30,30.657,28.657,32,27,32z"/>
-	<path class="cubies_achtentwintig" d="M8.5,0L15,6.5V32h-1V7.5l-2.293,2.293c-0.391,0.391-1.024,0.391-1.414,0L5.207,4.707
-		c-0.391-0.391-0.391-1.024,0-1.414L8.5,0z M24.793,3.293L21.5,0L15,6.5l3.293,3.293c0.391,0.391,1.024,0.391,1.414,0l5.086-5.086
-		C25.183,4.317,25.183,3.683,24.793,3.293z M17,14c-0.552,0-1,0.448-1,1c0,0.552,0.448,1,1,1s1-0.448,1-1C18,14.448,17.552,14,17,14
-		z M17,20c-0.552,0-1,0.448-1,1c0,0.552,0.448,1,1,1s1-0.448,1-1C18,20.448,17.552,20,17,20z M17,26c-0.552,0-1,0.448-1,1
-		c0,0.552,0.448,1,1,1s1-0.448,1-1C18,26.448,17.552,26,17,26z"/>
-	<polygon class="cubies_zesentwintig" points="8.5,0 15,6.5 21.5,0 	"/>
-</g>
+<svg width="800px" height="800px" viewBox="0 0 72 72" id="emoji" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <path fill="#F1B31C" stroke="#F1B31C" stroke-miterlimit="10" stroke-width="1.8" d="M30.4261,32.0382 C32.5596,14.9829,47.519,9.4299,47.519,9.4299l14.8565,7.1733l0.1213,20.7757h-8.1556V22.0555l-4.1926,13.9028l2.9151,31.0208 l-15,1l-15-1l2.9151-31.0208l-5.07-13.9028v14.9061h-8.7225V17l14.8565-7.1733c0,0,2.4071-0.053,5.4619,2.1273 c0,0,5.1203,3.6409,5.1203,4.046"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="25.9788,35.9583 22.0637,67.9792 38.0637,67.9792 54.0637,67.9792 50.1486,35.9583"/>
+    <line x1="33.7458" x2="42.3901" y1="35.9583" y2="35.9583" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M54.3412,22.0555v15.9061h8.7225V16L48.2072,8.8267c0,0-15.6476,6.1562-17.7811,23.2115"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M20.9088,22.0555v15.9061h-8.7225V16l14.8565-7.1733c0,0,2.4071,0.947,5.4619,3.1273"/>
+    <line x1="33.7458" x2="42.3901" y1="35.9583" y2="35.9583" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
 </svg>
