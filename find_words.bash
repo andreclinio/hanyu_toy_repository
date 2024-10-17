@@ -1,7 +1,8 @@
 # /bin/bash
 
-for word in "$@"
+for dir in `find repository -mindepth 2 -maxdepth 2 -type d`
 do
+  word=`basename $dir`
   path=`find . -name "$word" -type d`
   pt=$path/pt.txt
   repo=`dirname $path`
