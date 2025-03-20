@@ -1,4 +1,4 @@
-# /bin/bash
+#!/bin/bash
 
 wait_for_enter() {
   echo "Press Enter to continue..."
