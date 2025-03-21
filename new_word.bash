@@ -29,7 +29,7 @@ fi
 mkdir -p $dir
 mkdir -p $dir/sounds/machine
 mkdir -p $dir/sounds/duan
-python new_google_sound.py $hanzi
+./venv/bin/python new_google_sound.py $hanzi
 mv machine.mp3 $dir/sounds/machine/$hanzi.mp3
 echo -n $pinyin > $dir/pinyin.txt
 echo -n $pt > $dir/pt.txt
