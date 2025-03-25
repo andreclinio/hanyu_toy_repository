@@ -23,7 +23,7 @@ echo "L:$level ($hanzi: $pinyin) - $pt/$en/$es"
 
 dir="repository/$level/$hanzi"
 if [ -e $dir ]; then
-   echo "Já existe!"
+   echo "Já existe! ($dir)"
    exit 0;
 fi
 mkdir -p $dir
@@ -35,3 +35,4 @@ echo -n $pinyin > $dir/pinyin.txt
 echo -n $pt > $dir/pt.txt
 echo -n $en > $dir/en.txt
 echo -n $es > $dir/es.txt
+echo "OK: ($dir)"
