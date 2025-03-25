@@ -11,7 +11,7 @@ do
   else 
      text="??"
   fi
-  echo "$word ($repo) - $text"
+  echo "$word ($repo/$word) - $text"
 done
 
 
