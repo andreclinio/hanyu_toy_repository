@@ -27,10 +27,11 @@ if [ -e $dir ]; then
    exit 0;
 fi
 mkdir -p $dir
-mkdir -p $dir/sounds/machine
-mkdir -p $dir/sounds/duan
-./venv/bin/python new_google_sound.py $hanzi
-mv machine.mp3 $dir/sounds/machine/$hanzi.mp3
+mkdir -p $dir/sounds/female
+mkdir -p $dir/sounds/male
+./venv/bin/python enhanced_google_sound.py $hanzi
+mv male.mp3 $dir/sounds/male/$hanzi.mp3
+mv female.mp3 $dir/sounds/female/$hanzi.mp3
 echo -n $pinyin > $dir/pinyin.txt
 echo -n $pt > $dir/pt.txt
 echo -n $en > $dir/en.txt

@@ -3,13 +3,13 @@ import sys
 from google.cloud import texttospeech
 
 
-def create_sound(text, output_file="male.mp3"):
+def create_sound_file(text, gender, output_file):
     client = texttospeech.TextToSpeechClient()
     synthesis_input = texttospeech.SynthesisInput(text=text)
     # Escolher voz masculina para chinês
     voice = texttospeech.VoiceSelectionParams(
         language_code="zh-CN", 
-        ssml_gender=texttospeech.SsmlVoiceGender.MALE  
+        ssml_gender=gender
     )
 
     audio_config = texttospeech.AudioConfig(audio_encoding=texttospeech.AudioEncoding.MP3)
@@ -21,10 +21,13 @@ def create_sound(text, output_file="male.mp3"):
     print(f"Saved {output_file}")
 
 
-
+def create_sound(hanzi):
+    create_sound_file(hanzi, texttospeech.SsmlVoiceGender.FEMALE, "female.mp3") 
+    create_sound_file(hanzi, texttospeech.SsmlVoiceGender.MALE, "male.mp3") 
+    
 if len(sys.argv) != 2:
-    print("Usage: python script.py <argument>")
-    sys.exit(1)
+   print("Usage: python script.py <argument>")
+   sys.exit(1)
 
 hanzi = sys.argv[1]
 print(hanzi)
