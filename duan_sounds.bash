@@ -10,6 +10,7 @@ do
     file=$dir/sounds/male/$hanzi.mp3
     if [ -e $file ]; then
        echo "$n: já existe! ($file)"
+       n=$((n+1))
        continue;
     fi
     # dir="repository/$level/$hanzi"
