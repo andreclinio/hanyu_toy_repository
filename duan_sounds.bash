@@ -1,8 +1,5 @@
 # /bin/bash
 
-level=1
-
-echo "L:$level"
 n=1
 for dir in `find repository -mindepth 2 -maxdepth 2 -type d` 
 do
@@ -13,7 +10,6 @@ do
        n=$((n+1))
        continue;
     fi
-    # dir="repository/$level/$hanzi"
     mkdir -p $dir/sounds/male
     echo "$n: call enhanced_google_sound.py for $hanzi (file: $file)..."
 
