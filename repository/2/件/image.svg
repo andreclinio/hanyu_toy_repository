@@ -21,7 +21,7 @@
      stroke="#e74c3c"
      stroke-width="4"
      id="rect2"
-     style="fill:none;stroke:#9b8c15;stroke-opacity:1" />
+     style="fill:none;stroke:#a159a6;stroke-opacity:1" />
   <!-- Caractere chinês "类" centralizado -->
   <text
      x="50.836758"
@@ -31,6 +31,6 @@
      text-anchor="middle"
      fill="#e74c3c"
      id="text4"
-     style="fill:none;stroke:#9b8c15;stroke-width:1.35012;stroke-opacity:1"
+     style="fill:none;stroke:#a159a6;stroke-width:1.35012;stroke-opacity:1"
      transform="scale(0.99030079,1.0097942)">类</text>
 </svg>
