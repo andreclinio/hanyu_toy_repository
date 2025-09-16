@@ -1,1 +1,1 @@
-enviar, entregar
+enviar, entregar (foco no destino)
