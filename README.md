@@ -35,7 +35,7 @@ $ python -m venv venv
 ...
 $ source ./venv/bin/activate
 $ ./venv/bin/pip install gtts
-$ venv/bin/pip install google-cloud-texttospeech 
+$ ./venv/bin/pip install google-cloud-texttospeech 
 
 $ ./venv/bin/python enhanced_google_sound.py 鱼
 ...
