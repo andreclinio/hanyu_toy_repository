@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg6"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <!-- Fundo quadrado com borda vermelha (estilo tradicional) -->
+  <rect
+     x="10"
+     y="10"
+     width="80"
+     height="80"
+     rx="5"
+     ry="5"
+     fill="none"
+     stroke="#e74c3c"
+     stroke-width="4"
+     id="rect2"
+     style="fill:none;stroke:#cf6f84;stroke-opacity:1" />
+  <!-- Caractere chinês "类" centralizado -->
+  <text
+     x="50.836758"
+     y="76.235603"
+     font-family="SimSun, '宋体', serif"
+     font-size="67.5059px"
+     text-anchor="middle"
+     fill="#e74c3c"
+     id="text4"
+     style="fill:none;stroke:#cf6f84;stroke-width:1.35012;stroke-opacity:1"
+     transform="scale(0.99030079,1.0097942)">量</text>
+</svg>
