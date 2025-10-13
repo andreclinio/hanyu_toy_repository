@@ -24,7 +24,7 @@ Verificar:
 
 Se não tiver, gerar uma chave de credenciais JSON para a conta de serviço:
 Chave: achar algo do tipo `XXx_xxxSfhc` no google api console.
-`export GOOGLE_APPLICATION_CREDENTIALS="~/chave.json"`
+`export GOOGLE_APPLICATION_CREDENTIALS="~/clinio-chave.json"`
 
 ## Virtual Env
 
