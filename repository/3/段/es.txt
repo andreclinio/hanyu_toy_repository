@@ -1,0 +1,1 @@
+sección / tramo / parte (clasificador para segmentos)

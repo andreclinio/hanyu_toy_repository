@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <path
+     d="m 24.489,41.279827 c -0.2433,0.03885 -0.2148,0.3975 0.0315,0.3975 H 39.5 c 0.2761,0 0.5,-0.22386 0.5,-0.5 v -14.9795 c 0,-0.2463 -0.3586,-0.2748 -0.3975,-0.0315 l -1.967,12.3167 c -0.0682,0.4269 -0.4029,0.7616 -0.8298,0.8298 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path1"
+     style="fill:#aa4400;stroke:#be6611;stroke-opacity:1" />
+  <path
+     d="m 6.489,23.279827 c -0.24326,0.0389 -0.2148,0.3975 0.03154,0.3975 H 21.5 c 0.2761,0 0.5,-0.2239 0.5,-0.5 V 8.1978272 c 0,-0.2463 -0.3586,-0.2748 -0.3975,-0.0315 l -1.967,12.3166998 c -0.0682,0.4269 -0.4029,0.7616 -0.8298,0.8298 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path2"
+     style="fill:#aa4400;stroke:#be6611;stroke-opacity:1" />
+  <path
+     d="m 15.489,32.279827 c -0.2433,0.0389 -0.2148,0.3975 0.0315,0.3975 H 30.5 c 0.2761,0 0.5,-0.2239 0.5,-0.5 v -14.9795 c 0,-0.2463 -0.3586,-0.2748 -0.3975,-0.0315 l -1.8527,11.6012 c -0.1364,0.8537 -0.8059,1.5232 -1.6596,1.6596 z"
+     fill="#000000"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path3"
+     style="fill:#aa4400;stroke:#be6611;stroke-opacity:1" />
+</svg>
