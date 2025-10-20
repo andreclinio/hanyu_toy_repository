@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   id="share-alt-2"
+   class="icon multi-color"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <path
+     id="secondary-stroke"
+     d="M15.3,16.65,8.68,13.34m0-2.68L15.3,7.35"
+     style="fill: none; stroke: rgb(44, 169, 188); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;" />
+  <path
+     id="tertiary-fill"
+     d="M6,9a3,3,0,1,1-3,3A3,3,0,0,1,6,9Zm9,9a3,3,0,1,0,3-3A3,3,0,0,0,15,18Zm3-9a3,3,0,1,0-3-3A3,3,0,0,0,18,9Z"
+     style="fill:#00fdfd;stroke-width:2;fill-opacity:1" />
+  <path
+     id="primary-stroke"
+     d="M6,9a3,3,0,1,1-3,3A3,3,0,0,1,6,9Zm9,9a3,3,0,1,0,3-3A3,3,0,0,0,15,18Zm3-9a3,3,0,1,0-3-3A3,3,0,0,0,18,9Z"
+     style="fill:none;stroke:#2d0dec;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke-opacity:1" />
+</svg>
