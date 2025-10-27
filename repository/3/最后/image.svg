@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <title
+     id="title1">omega</title>
+  <path
+     d="m 16,3.5718587 c -6.4567764,0 -11.7169648,6.1616993 -11.7169648,13.7930813 0,2.92072 0.7657363,5.668149 2.0752853,7.901189 -1.524475,-0.905938 -3.0219593,-2.002716 -4.5164446,-3.347366 v 6.509378 H 12.745121 C 9.751152,26.152326 7.6598723,22.800572 7.6598723,18.972817 7.6598723,13.869508 11.394586,9.732461 16,9.732461 c 4.605414,0 8.340128,4.137047 8.340128,9.240356 0,3.827755 -2.09128,7.179509 -5.085249,9.455324 h 10.903245 v -6.509378 c -1.498484,1.360005 -3.012963,2.477621 -4.556431,3.392334 1.328542,-2.242911 2.115272,-5.002405 2.115272,-7.94506 C 27.716965,9.734655 22.456776,3.5729555 16,3.5729555 v 0 z"
+     id="path1"
+     style="fill:#e9afaf;stroke:#000000;stroke-width:1.04709;stroke-opacity:1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>omega</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
