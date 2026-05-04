@@ -30,7 +30,7 @@
    id="path2" />
 </g>
 <polygon
-   style="fill:#008000"
+   style="fill:#800000"
    points="82.76,489.928 111.68,425.56 53.84,425.56 "
    id="polygon2"
    transform="translate(29.991632,-38.132218)" />
@@ -53,7 +53,7 @@
    id="path4" />
 </g>
 <polygon
-   style="fill:#008000"
+   style="fill:#800000"
    points="429.24,489.928 458.16,425.56 400.32,425.56 "
    id="polygon4"
    transform="translate(-17.994979,-34.276151)" />
@@ -76,7 +76,7 @@
    id="path6" />
 </g>
 <polygon
-   style="fill:#008000"
+   style="fill:#800000"
    points="429.24,159.592 458.16,95.224 400.32,95.224 "
    id="polygon6"
    transform="translate(-15.85272,28.277824)" />
@@ -99,7 +99,7 @@
    id="path8" />
 </g>
 <polygon
-   style="fill:#008000"
+   style="fill:#800000"
    points="82.76,159.592 111.68,95.224 53.84,95.224 "
    id="polygon8"
    transform="translate(26.135565,32.133891)" />
@@ -121,7 +121,7 @@
    id="path10" />
 </g>
 <polygon
-   style="fill:#008000"
+   style="fill:#800000"
    points="227.08,260.392 256,324.76 284.92,260.392 "
    id="polygon10" />
 </svg>
