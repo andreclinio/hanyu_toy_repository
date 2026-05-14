@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <path
+     d="M13 10V35"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1"
+     style="stroke-width:2.80002;stroke-dasharray:none;fill:#fd1b1b;stroke:#99389a;stroke-opacity:1;fill-opacity:1" />
+  <path
+     d="M35 10V35"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path2"
+     style="stroke-width:2.80002;stroke-dasharray:none;fill:#fd1b1b;stroke:#99389a;stroke-opacity:1;fill-opacity:1" />
+  <path
+     d="M8 18L40 18"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     id="path3"
+     style="stroke-width:2.80002;stroke-dasharray:none;fill:#fd1b1b;stroke:#99389a;stroke-opacity:1;fill-opacity:1" />
+  <path
+     d="M24 10V18"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path4"
+     style="stroke-width:2.80002;stroke-dasharray:none;fill:#fd1b1b;stroke:#99389a;stroke-opacity:1;fill-opacity:1" />
+  <path
+     d="M39 10H9.00001L5 4C5 4 16.0708 5 24 5C31.9292 5 43 4 43 4L39 10Z"
+     fill="#2F88FF"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path5"
+     style="fill:#fd1b1b;stroke-width:2.80002;stroke-dasharray:none;stroke:#99389a;stroke-opacity:1;fill-opacity:1" />
+  <rect
+     x="10"
+     y="35"
+     width="6"
+     height="9"
+     fill="#2F88FF"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="rect5"
+     style="fill:#fd1b1b;stroke-width:2.80002;stroke-dasharray:none;stroke:#99389a;stroke-opacity:1;fill-opacity:1" />
+  <rect
+     x="32"
+     y="35"
+     width="6"
+     height="9"
+     fill="#2F88FF"
+     stroke="#000000"
+     stroke-width="4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="rect6"
+     style="fill:#fd1b1b;stroke-width:2.80002;stroke-dasharray:none;stroke:#99389a;stroke-opacity:1;fill-opacity:1" />
+</svg>
