@@ -1,1 +1,1 @@
-gastar / despender (dinheiro, tempo)
+gastar,  despender (dinheiro, tempo) / flor, florada

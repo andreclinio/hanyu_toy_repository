@@ -1,1 +1,1 @@
-gastar / dedicar (dinero, tiempo)
+gastar,  dedicar (dinero, tiempo) / flor
