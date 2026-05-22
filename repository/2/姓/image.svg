@@ -9,10 +9,6 @@
    viewBox="0 0 256 256"
    enable-background="new 0 0 256 256"
    xml:space="preserve"
-   sodipodi:docname="image.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
    id="defs993">
@@ -44,25 +40,7 @@
 	
 	
 	
-</defs><sodipodi:namedview
-   id="namedview991"
-   pagecolor="#ffffff"
-   bordercolor="#000000"
-   borderopacity="0.25"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   showgrid="false"
-   inkscape:zoom="3.0117188"
-   inkscape:cx="127.83398"
-   inkscape:cy="75.206226"
-   inkscape:window-width="1442"
-   inkscape:window-height="795"
-   inkscape:window-x="180"
-   inkscape:window-y="116"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
+</defs>
 <g
    id="g930">
 </g>
@@ -139,7 +117,6 @@
    y="99.97567"
    id="text1077"
    transform="scale(1.2686881,0.78821577)"><tspan
-     sodipodi:role="line"
      id="tspan1075"
      x="54.717907"
      y="99.97567"

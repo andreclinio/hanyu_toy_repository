@@ -9,33 +9,10 @@
    style="vertical-align: middle;fill: #000000;overflow: hidden;"
    version="1.1"
    id="svg34"
-   sodipodi:docname="image.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs38" />
-  <sodipodi:namedview
-     id="namedview36"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="1.01"
-     inkscape:cx="400"
-     inkscape:cy="401.48515"
-     inkscape:window-width="1920"
-     inkscape:window-height="977"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg34" />
   <path
      d="M873.8816 913.2032H214.4256c-36.4032 0-65.9456-29.5424-65.9456-65.9456v-385.024c0-21.0944 10.0864-40.9088 27.136-53.2992l324.5568-236.2368a65.9712 65.9712 0 0 1 76.9024-0.512l334.8992 236.8c17.4592 12.3392 27.8528 32.4096 27.8528 53.8624v384.4608c0 36.352-29.5424 65.8944-65.9456 65.8944z"
      fill="#787CF5"
