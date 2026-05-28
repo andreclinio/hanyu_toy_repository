@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 73 73"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="image.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.07125"
+     inkscape:cx="399.53326"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <title
+     id="title1">the-modern-web/payment-request-api</title>
+  <desc
+     id="desc1">Created with Sketch.</desc>
+  <defs
+     id="defs1" />
+  <path
+     d="M 61.544457,24.36594 48.418775,13.63365 v 43.007539 h 17.566056 v -23.56119 c 0,-3.271495 -1.598574,-6.407788 -4.440374,-8.714059 z"
+     id="Shape"
+     fill="#ffb782"
+     style="fill-rule:nonzero;stroke:none;stroke-width:1.49417" />
+  <polygon
+     id="polygon13"
+     fill="#88b337"
+     points="30.344938,44.022065 30.344938,36.436048 44,36.436048 44,44.022065 "
+     transform="matrix(1.6539702,0,0,1.3498105,-6.7898565,7.4594269)"
+     style="fill-rule:nonzero;stroke:none;stroke-width:1" />
+  <path
+     d="m 39.717142,25.987972 c -2.12823,-1.730586 -5.572198,-1.725492 -7.692743,0.01134 -2.050439,1.679249 -2.121507,4.377408 -0.161824,6.127589 l 10.282439,9.154542 c -3.090543,4.414244 -2.958487,9.857594 0.342381,14.16877 l 0.912372,1.190953 H 59.711069 V 42.305474 Z"
+     id="path13"
+     fill="#ffb782"
+     style="fill-rule:nonzero;stroke:none;stroke-width:1.49417" />
+  <polygon
+     id="polygon14"
+     fill="#6b962a"
+     points="32.62083,40.229202 32.62083,38.71194 34.138091,38.71194 34.138091,40.229202 "
+     transform="matrix(1.6539702,0,0,1.3498105,-6.7898565,7.4594269)"
+     style="fill-rule:nonzero;stroke:none;stroke-width:1" />
+  <path
+     d="m 58.456316,42.305474 c -0.332296,0 -0.652107,-0.10777 -0.886924,-0.300188 l -5.019009,-4.096031 c -0.481637,-0.40639 -0.46771,-1.054575 0.03169,-1.448032 0.486918,-0.382876 1.257155,-0.382876 1.742633,0 l 5.019009,4.09603 c 0.48932,0.400511 0.48932,1.048697 0,1.448033 -0.236255,0.192417 -0.554626,0.300188 -0.8874,0.300188 z"
+     id="path16"
+     fill="#f2a46f"
+     style="fill-rule:nonzero;stroke:none;stroke-width:1.49417" />
+  <path
+     d="M 56.460428,22.332561 40.994694,35.387692 c -0.454514,0.347984 -1.109037,0.437644 -1.67059,0.228846 -0.561554,-0.208797 -0.924998,-0.676957 -0.927652,-1.194925 v -6.540621 c -0.0061,-0.71378 -0.685634,-1.293134 -1.531109,-1.305514 C 8.160943,26.079383 5.8720153,11.496801 5.8565494,7.005837 5.8548119,6.8124641 5.9023262,6.6210326 5.9957402,6.4444667 6.2547108,5.9873927 6.8029154,5.6975319 7.4031228,5.7003233 H 26.116659 c 0.791971,0.0019 1.453629,0.5096383 1.531108,1.1749625 0.293848,2.6763017 1.716697,9.0994262 8.33603,10.3657732 0.21652,0.03916 0.433041,0.07833 0.665027,0.104442 0.07149,0.01046 0.144017,0.01479 0.216519,0.01305 0.850587,-0.01428 1.531276,-0.600419 1.531109,-1.318568 V 8.3113494 c 0.0027,-0.5179674 0.366098,-0.9861287 0.927652,-1.1949246 0.561553,-0.2087972 1.216076,-0.1191334 1.67059,0.2288461 L 56.460428,20.400401 c 0.318169,0.249482 0.498945,0.599508 0.498945,0.96608 0,0.366571 -0.180784,0.716598 -0.498945,0.96608 z"
+     id="path5"
+     fill="#894b9d"
+     style="fill-rule:nonzero;stroke:none;stroke-width:1.89459" />
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>the-modern-web/payment-request-api</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
