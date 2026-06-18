@@ -1,0 +1,1 @@
+marcador, resultado, puntuación
