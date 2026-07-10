@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="800px"
+   width="800px"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   sodipodi:docname="image.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.03625"
+   inkscape:cx="400"
+   inkscape:cy="400"
+   inkscape:window-width="1791"
+   inkscape:window-height="1036"
+   inkscape:window-x="36"
+   inkscape:window-y="32"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<path
+   style="fill:#D7EBFF;stroke:#000000;stroke-opacity:1;stroke-width:3.55968;stroke-dasharray:none"
+   d="M439.652,150.261V16.696C439.652,7.473,432.174,0,422.957,0H300.522  c-6.327,0-12.109,3.571-14.935,9.228l-27.826,66.783c-4.119,8.25-0.782,18.277,7.467,22.402l44.305,24.929L256,195.293v-45.033  c0-6.327-3.576-12.103-9.228-14.935L198.5,108.413l28.816-86.44c1.695-5.087,0.848-10.685-2.294-15.038S216.848,0,211.478,0H89.043  c-9.217,0-16.696,7.473-16.696,16.696v133.565c0,82.37,55.402,154.597,133.565,176.722v84.843h-16.696  c-46.032,0-83.478,37.446-83.478,83.478c0,9.223,7.479,16.696,16.696,16.696h267.13c9.217,0,16.696-7.473,16.696-16.696  c0-46.032-37.446-83.478-83.478-83.478h-16.696v-84.843C384.25,304.858,439.652,232.631,439.652,150.261z"
+   id="path1" />
+<path
+   style="fill:#C4E2FF;"
+   d="M422.957,0H300.522c-6.327,0-12.109,3.571-14.935,9.228l-27.826,66.783  c-4.119,8.25-0.782,18.277,7.467,22.402l44.305,24.929L256,195.293V512h133.565c9.217,0,16.696-7.473,16.696-16.696  c0-46.032-37.446-83.478-83.478-83.478h-16.696v-84.843c78.163-22.125,133.565-94.353,133.565-176.722V16.696  C439.652,7.473,432.174,0,422.957,0z"
+   id="path2" />
+</svg>
