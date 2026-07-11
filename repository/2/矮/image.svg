@@ -27,17 +27,18 @@
      inkscape:zoom="1.03625"
      inkscape:cx="399.51749"
      inkscape:cy="400"
-     inkscape:window-width="1484"
+     inkscape:window-width="1658"
      inkscape:window-height="1036"
      inkscape:window-x="36"
      inkscape:window-y="32"
      inkscape:window-maximized="0"
      inkscape:current-layer="emoji" />
   <g
-     id="color" />
+     id="color"
+     transform="matrix(1.043628,0,0,0.35530492,-15.785324,41.734048)" />
   <g
      id="skin"
-     transform="translate(-12.680338,0.17370326)">
+     transform="matrix(1.043628,0,0,0.35530492,-17.348653,38.173131)">
     <g
        id="color-2">
       <path
@@ -54,7 +55,7 @@
   </g>
   <g
      id="line"
-     transform="translate(-12.680338,0.17370326)">
+     transform="matrix(1.043628,0,0,0.35530492,-17.348653,38.173131)">
     <g
        id="Standing_Man">
       <g
@@ -97,14 +98,14 @@
   </g>
   <g
      id="g2"
-     transform="matrix(0,1.1950953,-0.73942538,0,67.312456,7.6620865)">
+     transform="matrix(0,-0.94562794,0.63892904,0,33.137284,60.507105)">
     <path
        d="M 45,26 H 3 a 2,2 0 0 1 0,-4 h 42 a 2,2 0 0 1 0,4 z"
        fill="#4dbe86"
-       id="path1-6" />
+       id="path1-9" />
     <path
        d="m 19,43 a 2,2 0 0 1 -1.41,-0.59 l -17,-17 A 2,2 0 0 1 0,24 2.07,2.07 0 0 1 0.59,22.56 l 17,-17 a 2.0011122,2.0011122 0 0 1 2.83,2.83 L 4.81,24 20.38,39.57 A 2,2 0 0 1 19,43 Z"
        fill="#4dbe86"
-       id="path2-2" />
+       id="path2-1" />
   </g>
 </svg>
