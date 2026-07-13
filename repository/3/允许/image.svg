@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="aut.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.03625"
+     inkscape:cx="400"
+     inkscape:cy="400"
+     inkscape:window-width="1769"
+     inkscape:window-height="1036"
+     inkscape:window-x="36"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#669df6;}.cls-1,.cls-2{fill-rule:evenodd;}.cls-2{fill:#4285f4;}</style>
+  </defs>
+  <title
+     id="title1">Icon_24px_IAM_Color</title>
+  <g
+     data-name="Product Icons"
+     id="g3">
+    <g
+       id="g2">
+      <path
+         class="cls-1"
+         d="M12,2,3.79,5.42v5.63c0,5.06,3.5,9.8,8.21,11,4.71-1.15,8.21-5.89,8.21-10.95V5.42Zm0,3.79a2.63,2.63,0,1,1-1.86.77A2.63,2.63,0,0,1,12,5.79Zm4.11,11.15A8.64,8.64,0,0,1,12,19.87a8.64,8.64,0,0,1-4.11-2.93V14.69c0-1.67,2.74-2.52,4.11-2.52s4.11.85,4.11,2.52v2.25Z"
+         id="path1" />
+      <path
+         class="cls-2"
+         d="M12,2V5.79a2.63,2.63,0,1,1,0,5.26v1.12c1.37,0,4.11.85,4.11,2.52v2.25A8.64,8.64,0,0,1,12,19.87V22c4.71-1.15,8.21-5.89,8.21-10.95V5.42Z"
+         id="path2" />
+    </g>
+  </g>
+  <path
+     fill="#77b255"
+     d="m 21.491762,22.145597 a 0.86529956,0.82991555 0 0 1 -0.8653,0.829916 h -6.057097 a 0.86529956,0.82991555 0 0 1 -0.8653,-0.829916 v -5.809409 a 0.86529956,0.82991555 0 0 1 0.8653,-0.829915 h 6.057097 a 0.86529956,0.82991555 0 0 1 0.8653,0.829915 z"
+     id="path1-6"
+     style="stroke-width:0.211856" />
+  <path
+     fill="#ffffff"
+     d="m 20.038058,16.826253 a 0.54124489,0.5191122 0 0 0 -0.748051,0.152705 l -2.354912,3.481288 -1.087898,-0.964777 a 0.54081222,0.51869722 0 1 0 -0.734207,0.761655 l 1.559486,1.383055 c 0.103836,0.09233 0.235794,0.137973 0.366887,0.137973 0.145586,0 0.331842,-0.05851 0.454066,-0.236318 0.07182,-0.104984 2.704061,-3.998119 2.704061,-3.998119 a 0.54081222,0.51869722 0 0 0 -0.159432,-0.717462 z"
+     id="path2-7"
+     style="stroke-width:0.211856" />
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Icon_24px_IAM_Color</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
