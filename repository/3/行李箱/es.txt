@@ -1,1 +1,1 @@
-maleta / equipaje
+maleta (objeto físico; la maleta en sí)
