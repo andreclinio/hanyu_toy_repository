@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   id="toilet-paper-6"
+   data-name="Flat Line"
+   class="icon flat-line"
+   version="1.1"
+   sodipodi:docname="image.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.98125"
+     inkscape:cx="399.49045"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="toilet-paper-6" />
+  <path
+     id="secondary"
+     d="M15,21H4V11H15c2.76,0,5-1.79,5-4V17C20,19.21,17.76,21,15,21Z"
+     style="fill:#ffccaa;stroke-width:2" />
+  <line
+     id="primary-upstroke"
+     x1="14.95"
+     y1="7"
+     x2="15.05"
+     y2="7"
+     style="fill: none; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2.5;" />
+  <path
+     id="primary"
+     d="M10,7v4M20,7c0-2.21-2.24-4-5-4s-5,1.79-5,4,2.24,4,5,4S20,9.21,20,7Z"
+     style="fill: none; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;" />
+  <path
+     id="primary-2"
+     data-name="primary"
+     d="M15,11H4V21H15c2.76,0,5-1.79,5-4V7"
+     style="fill: none; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;" />
+</svg>

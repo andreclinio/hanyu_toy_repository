@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="image.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.98125"
+     inkscape:cx="399.49045"
+     inkscape:cy="400"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12" />
+  <g
+     transform="matrix(-1,0,0,1,24,-1028.4)"
+     id="g12">
+    <g
+       id="g4">
+      <path
+         d="m 17,1034.4 c 3.314,0 6,2.6 6,6 0,3.3 -2.686,6 -6,6 H 12 7 c -3.3137,0 -6,-2.7 -6,-6 0,-3.4 2.6863,-6 6,-6 h 5 z"
+         fill="#95a5a6"
+         id="path1" />
+      <path
+         d="m 17,1033.4 c 3.314,0 6,2.6 6,6 0,3.3 -2.686,6 -6,6 H 12 7 c -3.3137,0 -6,-2.7 -6,-6 0,-3.4 2.6863,-6 6,-6 h 5 z"
+         fill="#bdc3c7"
+         id="path2" />
+      <path
+         d="m 17,1035.4 c 2.209,0 4,1.8 4,4 0,2.2 -1.791,4 -4,4 H 12 7 c -2.2091,0 -4,-1.8 -4,-4 0,-2.2 1.7909,-4 4,-4 h 5 z"
+         fill="#2ecc71"
+         id="path3"
+         style="fill:#ff5555" />
+      <path
+         d="m 17,1035.4 c 2.209,0 4,1.8 4,4 0,0.1 -0.042,0.3 -0.062,0.5 -0.248,-2 -1.899,-3.5 -3.938,-3.5 H 12 7 c -2.039,0 -3.6904,1.5 -3.9375,3.5 C 3.0419,1039.7 3,1039.5 3,1039.4 c 0,-2.2 1.7909,-4 4,-4 h 5 z"
+         fill="#27ae60"
+         id="path4"
+         style="fill:#d40000" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,35.5,-11.4)"
+       id="g11">
+      <g
+         transform="translate(10.5,10.4)"
+         id="g10">
+        <path
+           d="M 13.023,1039.7 13,1040.9 c -0.04,1.9 1.567,3.5 3.5,3.5 H 18 c 2.209,0 4,-1.8 4,-4 0,-0.4 -0.074,-0.7 -0.156,-1 z"
+           fill="#7f8c8d"
+           id="path5" />
+        <path
+           d="m 16.5,1036.4 c -1.933,0 -3.5,1.5 -3.5,3.5 0,1.9 1.567,3.5 3.5,3.5 h 2 c 1.933,0 3.5,-1.6 3.5,-3.5 0,-2 -1.567,-3.5 -3.5,-3.5 z"
+           fill="#ecf0f1"
+           id="path6" />
+        <g
+           fill="#bdc3c7"
+           id="g9">
+          <path
+             d="m 15.5,1037.4 c -0.276,0 -0.5,0.1 -0.5,0.4 v 3.2 c 0,0.2 0.224,0.4 0.5,0.4 0.276,0 0.5,-0.2 0.5,-0.4 v -3.2 c 0,-0.3 -0.224,-0.4 -0.5,-0.4 z"
+             id="path7" />
+          <path
+             d="m 17.5,1037.4 c -0.276,0 -0.5,0.1 -0.5,0.4 v 3.2 c 0,0.2 0.224,0.4 0.5,0.4 0.276,0 0.5,-0.2 0.5,-0.4 v -3.2 c 0,-0.3 -0.224,-0.4 -0.5,-0.4 z"
+             id="path8" />
+          <path
+             d="m 19.5,1037.4 c -0.276,0 -0.5,0.1 -0.5,0.4 v 3.2 c 0,0.2 0.224,0.4 0.5,0.4 0.276,0 0.5,-0.2 0.5,-0.4 v -3.2 c 0,-0.3 -0.224,-0.4 -0.5,-0.4 z"
+             id="path9" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
