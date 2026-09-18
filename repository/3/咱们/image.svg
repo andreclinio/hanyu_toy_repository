@@ -2,13 +2,13 @@
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 
 <svg
-   width="800px"
-   height="800px"
+   width="800"
+   height="800"
    viewBox="0 0 48 48"
    version="1.1"
    id="svg3"
    sodipodi:docname="image.svg"
-   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,9 +26,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.3525"
      inkscape:cx="400"
-     inkscape:cy="400"
+     inkscape:cy="399.63031"
      inkscape:window-width="2560"
-     inkscape:window-height="1324"
+     inkscape:window-height="1400"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
      d="m 34.584448,24.527293 c -6.857156,0 -12.413817,3.88695 -12.413817,8.678995 v 4.339498 a 1.1822683,1.2398564 0 0 0 1.182268,1.239856 h 22.463098 a 1.1822683,1.2398564 0 0 0 1.182268,-1.239856 v -4.339498 c 0,-4.792045 -5.556661,-8.678995 -12.413817,-8.678995 z"
      fill="#4dbe86"
      id="path1-3"
-     style="stroke-width:0.60536;fill:#ff2a2a" />
+     style="fill:#00aa00;stroke-width:0.60536" />
   <path
      d="m 34.584448,10.268944 a 7.6847439,8.0590669 0 1 0 7.684744,8.059066 7.6847439,8.0590669 0 0 0 -7.684744,-8.059066 z"
      fill="#fac591"
@@ -69,7 +69,7 @@
      d="m 13.476952,32.588463 c -6.8571556,0 -12.4138166,3.88695 -12.4138166,8.678995 v 4.339498 a 1.1822683,1.2398564 0 0 0 1.182268,1.239856 H 24.708501 a 1.1822683,1.2398564 0 0 0 1.182268,-1.239856 v -4.339498 c 0,-4.792045 -5.556661,-8.678995 -12.413817,-8.678995 z"
      fill="#4dbe86"
      id="path1-9"
-     style="stroke-width:0.60536;fill:#0000ff" />
+     style="fill:#00d400;stroke-width:0.60536" />
   <path
      d="m 13.476952,18.330113 a 7.6847439,8.0590669 0 1 0 7.684744,8.059067 7.6847439,8.0590669 0 0 0 -7.684744,-8.059067 z"
      fill="#fac591"
