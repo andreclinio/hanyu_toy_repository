@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="800px"
+   width="800px"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   sodipodi:docname="image.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.03625"
+   inkscape:cx="399.51749"
+   inkscape:cy="400"
+   inkscape:window-width="1552"
+   inkscape:window-height="1036"
+   inkscape:window-x="36"
+   inkscape:window-y="32"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<polygon
+   style="fill:#FFFFFF;"
+   points="128.232,500 128.232,293.912 29.984,293.912 256,18.904 482.008,293.912 383.768,293.912   383.768,500 "
+   id="polygon1" />
+<path
+   style="fill:#E21B1B;"
+   d="M256,37.8l200.624,244.112h-60.848h-24v24V488H140.232V305.912v-24h-24H55.376L256,37.8 M256,0  L4.592,305.912h111.64V512h279.536V305.912h111.64L256,0L256,0z"
+   id="path1" />
+<circle
+   cx="256"
+   cy="196.344"
+   r="20.44"
+   id="circle1"
+   style="fill:#c87137" />
+<path
+   d="M278.816,224.952h-45.64c-16.088,0-29.192,13.096-29.192,29.192v57.24c0,5.864,4.752,10.616,10.616,10.616  s10.616-4.752,10.616-10.616v-51.336h6.368v48.4c0,0.024-0.008,0.048-0.008,0.064v108.216c0,5.864,4.752,10.616,10.616,10.616  s10.616-4.752,10.616-10.616v-87.064h6.368v87.064c0,5.864,4.752,10.616,10.616,10.616c5.864,0,10.616-4.752,10.616-10.616v-87.064  v-21.16V260.04h6.376v51.336c0,5.864,4.752,10.616,10.616,10.616c5.864,0,10.616-4.752,10.616-10.616v-57.24  C308.008,238.048,294.912,224.952,278.816,224.952z"
+   id="path2"
+   style="fill:#0000ff" />
+</svg>

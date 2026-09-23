@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="800px"
+   width="800px"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   sodipodi:docname="image.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs6" /><sodipodi:namedview
+   id="namedview6"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.03625"
+   inkscape:cx="400"
+   inkscape:cy="400"
+   inkscape:window-width="1629"
+   inkscape:window-height="1036"
+   inkscape:window-x="36"
+   inkscape:window-y="32"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<path
+   style="fill:#FFFFFF;"
+   d="M256,504C119.256,504,8,392.752,8,256S119.256,8,256,8c136.752,0,248,111.256,248,248  S392.752,504,256,504z"
+   id="path1" />
+<path
+   style="fill:#E2E2E2;"
+   d="M256,16c132.336,0,240,107.664,240,240S388.336,496,256,496S16,388.336,16,256S123.664,16,256,16   M256,0C114.616,0,0,114.616,0,256s114.616,256,256,256s256-114.616,256-256S397.384,0,256,0L256,0z"
+   id="path2" />
+<circle
+   style="fill:#ffb380"
+   cx="170.584"
+   cy="290.92"
+   r="35.248"
+   id="circle2" />
+<path
+   style="fill:#0000ff"
+   d="M231.392,404.28c0,0,0,1.648,0-31.2s-35.848-33.448-35.848-33.448h-49.912  c0,0-35.848,0.4-35.848,33.448c0,32.848,0,31.2,0,31.2H231.392z"
+   id="path3" />
+<circle
+   style="fill:#ffb380"
+   cx="170.584"
+   cy="123.624"
+   r="35.248"
+   id="circle3" />
+<path
+   style="fill:#0000ff"
+   d="M231.392,237.024c0,0,0,1.648,0-31.2s-35.848-33.448-35.848-33.448h-49.912  c0,0-35.848,0.4-35.848,33.448c0,32.848,0,31.2,0,31.2H231.392z"
+   id="path4" />
+<circle
+   style="fill:#ffb380"
+   cx="341.408"
+   cy="290.92"
+   r="35.248"
+   id="circle4" />
+<path
+   style="fill:#0000ff"
+   d="M402.216,404.28c0,0,0,1.648,0-31.2s-35.848-33.448-35.848-33.448h-49.912  c0,0-35.848,0.4-35.848,33.448c0,32.848,0,31.2,0,31.2H402.216z"
+   id="path5" />
+<circle
+   style="fill:#ffb380"
+   cx="341.408"
+   cy="123.624"
+   r="35.248"
+   id="circle5" />
+<path
+   style="fill:#0000ff"
+   d="M402.216,237.024c0,0,0,1.648,0-31.2s-35.848-33.448-35.848-33.448h-49.912  c0,0-35.848,0.4-35.848,33.448c0,32.848,0,31.2,0,31.2H402.216z"
+   id="path6" />
+</svg>
