@@ -1,0 +1,1 @@
+selar, fechar; classificador de cartas
