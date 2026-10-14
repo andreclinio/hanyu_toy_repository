@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 420 420" xml:space="preserve">
+<g id="XMLID_204_">
+	<rect id="XMLID_205_" x="255" y="140" style="fill:#EDEDED;" width="60" height="70"/>
+	<rect id="XMLID_208_" x="255" y="140" style="fill:#D8D8DA;" width="30" height="70"/>
+	<path id="XMLID_209_" style="fill:#E9A440;" d="M321.545,54.586L285,18l-36.54,36.578c-8.663,9.072-13.996,21.353-13.996,34.888
+		C234.465,117.375,257.09,140,285,140s50.535-22.625,50.535-50.534C335.535,75.936,330.205,63.654,321.545,54.586z"/>
+	<path id="XMLID_212_" style="fill:#F4F19C;" d="M300.077,104.762L285,89.668l-15.075,15.091c-3.574,3.743-5.774,8.81-5.774,14.394
+		c0,11.514,9.334,20.848,20.849,20.848s20.849-9.334,20.849-20.848C305.849,113.57,303.649,108.503,300.077,104.762z"/>
+	<rect id="XMLID_213_" x="185" y="200" style="fill:#7AB9E8;" width="200" height="220"/>
+	<path id="XMLID_1463_" style="fill:#7AB9E8;" d="M185,200V0H65C48.432,0,35,13.432,35,30v140c0,16.568,13.432,30,30,30H185z"/>
+	<rect id="XMLID_214_" x="145" style="fill:#98C8ED;" width="40" height="200"/>
+	<path id="XMLID_215_" style="fill:#61AAE4;" d="M65,0C48.432,0,35,13.432,35,30v140c0,16.568,13.432,30,30,30h10V0H65z"/>
+	<rect id="XMLID_216_" x="185" y="200" style="fill:#61AAE4;" width="40" height="220"/>
+	<rect id="XMLID_217_" x="345" y="200" style="fill:#98C8ED;" width="40" height="220"/>
+	<g id="XMLID_218_">
+		<rect id="XMLID_219_" x="185" y="345" style="fill:#61AAE4;" width="200" height="30"/>
+	</g>
+	<g id="XMLID_220_">
+		<rect id="XMLID_221_" x="345" y="345" style="fill:#7AB9E8;" width="40" height="30"/>
+	</g>
+	<g id="XMLID_222_">
+		<rect id="XMLID_223_" x="185" y="345" style="fill:#579ADF;" width="40" height="30"/>
+	</g>
+	<circle id="XMLID_224_" style="fill:#EDEDED;" cx="185" cy="200" r="30"/>
+</g>
+</svg>
