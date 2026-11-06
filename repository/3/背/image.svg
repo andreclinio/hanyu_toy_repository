@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="800px"
+   width="800px"
+   version="1.1"
+   id="_x32_"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   sodipodi:docname="image.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs3" /><sodipodi:namedview
+   id="namedview3"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.03625"
+   inkscape:cx="420.74789"
+   inkscape:cy="377.80458"
+   inkscape:window-width="1644"
+   inkscape:window-height="1036"
+   inkscape:window-x="36"
+   inkscape:window-y="32"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="_x32_" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#000000;}
+</style>
+<g
+   id="g3"
+   transform="matrix(0.7286883,0,0,0.78528347,4.8073601,97.582628)"
+   style="fill:#800080">
+	<path
+   class="st0"
+   d="m 54.726,96.776 c 26.718,0 48.389,-21.665 48.389,-48.388 C 103.114,21.665 81.444,0 54.726,0 28.003,0 6.337,21.665 6.337,48.389 c 0,26.723 21.666,48.387 48.389,48.387 z"
+   id="path1"
+   style="fill:#800080" />
+	<path
+   class="st0"
+   d="M 301.32,79.438 190.679,71.085 C 131.251,70.671 76.722,98.945 63.021,139.58 v 0.017 l -48.768,147.95 c -3.114,9.921 2.397,20.494 12.322,23.604 9.929,3.119 20.493,-2.405 23.616,-12.326 l 59.006,-123.166 c 4.634,-5.507 8.798,-3.365 10.242,-2.052 8.89,8.132 26.926,37.639 30.274,53.005 2.639,12.079 -3.3,29.744 -10.256,42.97 l -43.556,73.851 c -3.714,6.203 -6.793,12.758 -6.537,18.705 l 8.022,127.774 c 0,12.193 9.886,22.088 22.092,22.088 12.199,0 22.094,-9.895 22.094,-22.088 l 7.551,-117.042 55.565,-75.279 c 0.449,-0.696 2.942,-2.228 1.643,1.842 -0.023,0.053 -9.974,41.807 -9.974,41.807 -1.643,5.463 -1.554,9.27 -1.506,13.754 l 9.392,127.667 c 0.137,12.203 10.133,21.983 22.327,21.851 12.207,-0.132 21.995,-10.132 21.859,-22.336 l 6.423,-121.182 27.908,-78.539 c 16.115,-42.521 -27.062,-132.478 -51.648,-155.43 h 45.833 l 2.582,77.798 c -0.688,9.331 6.334,17.454 15.67,18.124 9.335,0.688 17.459,-6.326 18.128,-15.665 0,0 9.322,-102.557 9.369,-103.139 0.922,-12.723 -8.651,-23.79 -21.374,-24.705 z"
+   id="path2"
+   style="fill:#800080" />
+	
+	
+</g>
+<g
+   id="g6"
+   transform="matrix(3.37501,0,0,3.1220933,137.30212,39.395127)"><path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     fill="#fbf063"
+     d="M 7,22 50,0 93,22 50,43.001 Z"
+     id="path1-1" /><path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     fill="#f29c1f"
+     d="M 50.003,42.997 7,22 v 54.28 l 43.006,21.714 z"
+     id="path2-2" /><path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     fill="#f0c419"
+     d="M 50,97.994 93.006,76.28 V 22 L 50.003,42.997 Z"
+     id="path3" /><path
+     opacity="0.5"
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     fill="#f29c1f"
+     d="M 27.036,11.705 70.031,33.203 72.294,32.098 29.247,10.574 Z"
+     id="path4" /><path
+     opacity="0.5"
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     fill="#ffffff"
+     d="M 21.318,14.674 63.3,36.505 79.29,28.696 35.788,7.271 Z"
+     id="path5" /><path
+     opacity="0.5"
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     fill="#ffffff"
+     d="M 63.312,36.505 79.29,28.687 v 11 l -15.978,8.817 z"
+     id="path6" /></g></svg>
